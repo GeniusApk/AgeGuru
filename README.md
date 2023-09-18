@@ -25,3 +25,10 @@ Whether you're curious about your age down to the minute or want to reminisce ab
 ![photo1695065061](https://github.com/in-deep-dive/AgeGuru/assets/101592615/86815f83-3c18-40f9-b8bb-a3dc585d9feb)
 ![sec](https://github.com/in-deep-dive/AgeGuru/assets/101592615/fb61e30d-d7fd-40f6-8ec1-6ebe2b1adfdd)
 
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-aakib-0546ab272/)
+
+
+
