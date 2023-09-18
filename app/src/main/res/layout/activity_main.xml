@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#b0c4b1"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:fontFamily="@font/merriweathersans_bold"
+        android:text="Calculater Your Age"
+        android:textSize="26sp"
+        android:layout_marginTop="20dp"
+       android:layout_gravity="center"
+        android:gravity="center"
+        app:layout_constraintVertical_bias="0.05" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="20dp"
+        app:lottie_rawRes="@raw/animation_lmnb5msq"
+        app:lottie_autoPlay="true"
+        android:layout_gravity="center"
+        app:lottie_loop="true"
+        />
+
+    <Button
+        android:id="@+id/btnDatePiker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:fontFamily="@font/merriweathersans_medium"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:backgroundTint="#003f88"
+        android:text="Select Your Date of Birth"
+        tools:layout_editor_absoluteX="159dp"
+        tools:layout_editor_absoluteY="154dp" />
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvselceteddate"
+        android:textColor="#edf6f9"
+        android:fontFamily="@font/merriweathersans_bold"
+        android:text="00/00/0000"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        app:layout_constraintVertical_bias="0.05" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:fontFamily="@font/merriweathersans_bold"
+        android:text="Seclated Date"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        app:layout_constraintVertical_bias="0.05" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#edf6f9"
+        android:id="@+id/tvAgeInMint"
+        android:fontFamily="@font/merriweathersans_bold"
+        android:text="1400000"
+        android:textSize="22dp"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        app:layout_constraintVertical_bias="0.05" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:fontFamily="@font/merriweathersans_bold"
+        android:text="Minutes"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        app:layout_constraintVertical_bias="0.05" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#edf6f9"
+        android:id="@+id/tvAgeInHr"
+        android:fontFamily="@font/merriweathersans_bold"
+        android:text="000000"
+        android:textSize="22dp"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        app:layout_constraintVertical_bias="0.05" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:fontFamily="@font/merriweathersans_bold"
+        android:text="Hours"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        app:layout_constraintVertical_bias="0.05" />
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#edf6f9"
+        android:id="@+id/tvAgeInDay"
+        android:fontFamily="@font/merriweathersans_bold"
+        android:text="000000"
+        android:textSize="22dp"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        app:layout_constraintVertical_bias="0.05" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:fontFamily="@font/merriweathersans_bold"
+        android:text="Day"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        app:layout_constraintVertical_bias="0.05" />
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#edf6f9"
+        android:id="@+id/tvAgeInYear"
+        android:fontFamily="@font/merriweathersans_bold"
+        android:text="000000"
+        android:textSize="22dp"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        app:layout_constraintVertical_bias="0.05" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:fontFamily="@font/merriweathersans_bold"
+        android:text="Year"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        app:layout_constraintVertical_bias="0.05" />
+
+
+</LinearLayout>
