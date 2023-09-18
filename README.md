@@ -18,3 +18,10 @@ Welcome to AgeGuru, the ultimate age calculator app that not only tells you how 
 📈 Track Your Journey: Use AgeGuru to track your age over time and celebrate milestones as they come. It's the perfect tool to reflect on your life's journey.
 
 Whether you're curious about your age down to the minute or want to reminisce about your years, AgeGuru has you covered. Download AgeGuru today and embark on a unique time-traveling experience that will change the way you perceive time.
+
+# Screenshot
+
+![fast](https://github.com/in-deep-dive/AgeGuru/assets/101592615/56e980eb-4ae8-4317-b222-18473234f058)
+![photo1695065061](https://github.com/in-deep-dive/AgeGuru/assets/101592615/86815f83-3c18-40f9-b8bb-a3dc585d9feb)
+![sec](https://github.com/in-deep-dive/AgeGuru/assets/101592615/fb61e30d-d7fd-40f6-8ec1-6ebe2b1adfdd)
+
