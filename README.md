@@ -19,6 +19,10 @@ Welcome to AgeGuru, the ultimate age calculator app that not only tells you how 
 
 Whether you're curious about your age down to the minute or want to reminisce about your years, AgeGuru has you covered. Download AgeGuru today and embark on a unique time-traveling experience that will change the way you perceive time.
 
+## Download
+Click Here to Download
+[![Download App](https://img.shields.io/badge/Download-App-blue)](https://github.com/in-deep-dive/AgeGuru/releases/tag/v1.2)
+
 # Screenshot
 
 ![fast](https://github.com/in-deep-dive/AgeGuru/assets/101592615/56e980eb-4ae8-4317-b222-18473234f058)
