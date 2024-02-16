@@ -1,4 +1,4 @@
-package com.example.ageguru
+package com.geniusapk.ageguru
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity

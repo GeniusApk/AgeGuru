@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AgeGuru</string>
+    <string name="admob_app_open_ad_unit_id">ca-app-pub-1339176099499011/1175196270</string>
+
 </resources>
