@@ -25,9 +25,12 @@ Click Here to Download
 
 # Screenshot
 
-![fast](https://github.com/in-deep-dive/AgeGuru/assets/101592615/56e980eb-4ae8-4317-b222-18473234f058)
-![photo1695065061](https://github.com/in-deep-dive/AgeGuru/assets/101592615/86815f83-3c18-40f9-b8bb-a3dc585d9feb)
-![sec](https://github.com/in-deep-dive/AgeGuru/assets/101592615/fb61e30d-d7fd-40f6-8ec1-6ebe2b1adfdd)
+
+
+<img src="https://github.com/in-deep-dive/AgeGuru/assets/101592615/56e980eb-4ae8-4317-b222-18473234f058" alt="fast" width="250">
+<img src="https://github.com/in-deep-dive/AgeGuru/assets/101592615/86815f83-3c18-40f9-b8bb-a3dc585d9feb" alt="photo1695065061" width="250">
+<img src="https://github.com/in-deep-dive/AgeGuru/assets/101592615/fb61e30d-d7fd-40f6-8ec1-6ebe2b1adfdd" alt="sec" width="250">
+
 
 
 ## 🔗 Links
