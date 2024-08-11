@@ -33,7 +33,7 @@
         </activity>
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-1339176099499011~3303627287"/>
+            android:value="ca-app-pub-1333432011~3303627287"/>
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
